@@ -1,0 +1,20 @@
+{
+  "name": "web-resources-gallery",
+  "version": "1.0.0",
+  "description": "Gallery of web resources on html, css and javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulldecorb/web-resources-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulldecorb/web-resources-gallery/issues"
+  },
+  "homepage": "https://github.com/ulldecorb/web-resources-gallery#readme"
+}
